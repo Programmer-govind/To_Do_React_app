@@ -42,11 +42,16 @@ function App() {
     setTasks(tasks.map(task => task.id === id ? { ...task, content: updatedContent } : task));
   };
 
-  const filteredTasks = tasks.filter(task => {
+  const sortTasksByPriority = (tasks) => {
+    const priorityOrder = { High: 1, Medium: 2, Low: 3 };
+    return tasks.sort((a, b) => priorityOrder[a.priority] - priorityOrder[b.priority]);
+  };
+
+  const filteredTasks = sortTasksByPriority(tasks.filter(task => {
     if (filter === 'completed') return task.completed;
     if (filter === 'incomplete') return !task.completed;
     return true;
-  });
+  }));
 
   const toggleDarkMode = () => {
     setDarkMode(!darkMode);

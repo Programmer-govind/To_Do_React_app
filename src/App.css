@@ -100,6 +100,20 @@ body.dark-mode {
   color: #f4f4f4;
 }
 
+/* Ensure task names and priority are visible in dark mode */
+.dark-mode li {
+  background-color: #444;
+  color: #f4f4f4;
+}
+
+.dark-mode li span {
+  color: #f4f4f4;
+}
+
+.dark-mode li span span {
+  color: #bbb; /* Priority text color */
+}
+
 /* Task List Styles */
 ul {
   list-style: none;
