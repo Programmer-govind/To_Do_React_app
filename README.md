@@ -74,16 +74,13 @@ src/
 
 ## Screenshots
 ### Light Mode
-![Light Mode Screenshot](public/light-mode-screenshot.png)
+![Light Mode Screenshot](![image](https://github.com/user-attachments/assets/f96a4dc8-306a-4650-acd2-35a6e170598d)
+)
 
 ### Dark Mode
-![Dark Mode Screenshot](public/dark-mode-screenshot.png)
+![Dark Mode Screenshot](![image](https://github.com/user-attachments/assets/33a8d6f8-1916-42ca-be3f-60638e03c603)
+)
 
-## Future Enhancements
-- Add due dates for tasks.
-- Implement drag-and-drop for task reordering.
-- Add user authentication for multi-user support.
-
-## License
-This project is licensed under the MIT License.
+## Contribution
+Contributions and support are appreciated for adding more advanced features.
 
