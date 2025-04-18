@@ -74,11 +74,11 @@ src/
 
 ## Screenshots
 ### Light Mode
-![Light Mode Screenshot](![image](https://github.com/user-attachments/assets/f96a4dc8-306a-4650-acd2-35a6e170598d)
+![Light Mode Screenshot]((https://github.com/user-attachments/assets/f96a4dc8-306a-4650-acd2-35a6e170598d)
 )
 
 ### Dark Mode
-![Dark Mode Screenshot](![image](https://github.com/user-attachments/assets/33a8d6f8-1916-42ca-be3f-60638e03c603)
+![Dark Mode Screenshot]((https://github.com/user-attachments/assets/33a8d6f8-1916-42ca-be3f-60638e03c603)
 )
 
 ## Contribution
